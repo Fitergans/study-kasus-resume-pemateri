@@ -1,0 +1,16 @@
+kepadatan_penduduk,biaya_sewa_juta,akses_jalan,fasilitas_umum,keamanan,label
+8,3.0,9,8,8,Layak
+7,2.5,8,7,8,Layak
+9,4.0,9,9,7,Layak
+6,2.0,7,7,8,Layak
+4,1.5,5,5,7,Tinjau
+5,2.0,6,5,6,Tinjau
+3,1.0,4,4,6,Tidak Layak
+2,1.2,3,3,5,Tidak Layak
+4,3.5,5,6,5,Tinjau
+8,5.0,8,8,8,Layak
+3,4.0,4,4,4,Tidak Layak
+6,3.0,7,6,7,Layak
+5,4.5,6,6,6,Tinjau
+2,2.0,3,2,4,Tidak Layak
+9,3.5,9,8,9,Layak
